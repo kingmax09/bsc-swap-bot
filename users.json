@@ -1,0 +1,22 @@
+{
+  "7920921569": {
+    "private_key": "0x5341508cdce0449d80c10685b8623e43df99358c67c21d50080be6793299c3a0",
+    "address": "0xACf615125d169D70791264f862C117E6402cF966",
+    "settings": {
+      "slippage": 0.03,
+      "gas_mode": "turbo"
+    },
+    "positions": {
+      "0x55d398326f99059fF775485246999027B3197955": {
+        "symbol": "USDT",
+        "amount": 2.5020861601201805,
+        "avg_price_usd": 0.999014042546865
+      },
+      "0x588f355514e5292bCb9B672E9A138A9C4f034444": {
+        "symbol": "NERDCZ",
+        "amount": 73.17200873366619,
+        "avg_price_usd": 0.00022956024295689762
+      }
+    }
+  }
+}
